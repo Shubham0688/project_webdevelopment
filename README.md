@@ -20,6 +20,9 @@ Creating a front-end clone of Amazon using Vite involves building the user inter
 
 9. Build your Amazon clone using Vite using the `npm run build` command.
 
+
+https://amazon-clone-using-react.netlify.app/
+
 10. Deploy your Amazon clone to a hosting provider such as Netlify or Vercel to make it accessible to the public.
 
 Note that creating a front-end clone of Amazon using Vite is still a challenging project that involves many components, so you may need to break down each step into smaller sub-steps and spend time debugging and troubleshooting as you go. You may also need to use third-party APIs or mock data to simulate the behavior of the Amazon website.
